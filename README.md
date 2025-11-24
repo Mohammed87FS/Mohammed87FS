@@ -1,7 +1,7 @@
-<h1 align="center">Mohammed Ammar Al Hamadani</h1>
-<h3 align="center">Software Developer • Data Engineer • Machine Learning Enthusiast</h3>
+<h1 align="left">Mohammed Ammar Al Hamadani</h1>
+<h3 align="left">Software Developer • Data Engineer • Machine Learning Enthusiast</h3>
 
-<p align="center">
+<p align="left">
   I build data-driven systems, automate workflows, explore ML models, and create interactive 3D web experiences.
 </p>
 
