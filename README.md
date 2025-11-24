@@ -5,15 +5,6 @@
   I build data-driven systems, automate workflows, explore ML models, and create interactive 3D web experiences.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Mohammed87FS?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mohammed87FS?style=for-the-badge&color=blue" />
-  </a>
-  <a href="https://github.com/Mohammed87FS">
-    <img src="https://img.shields.io/github/stars/Mohammed87FS?style=for-the-badge&color=yellow" />
-  </a>
-</p>
-
 ---
 
 ##  About Me
