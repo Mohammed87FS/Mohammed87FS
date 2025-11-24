@@ -60,7 +60,7 @@
 
 ## 🎓 Education
 
-- **Master in Mechatronics** (planned)  
+- **Master in Mechatronics** 
   FH Wiener Neustadt, Austria · 2025 – 2027  
 
 - **Bachelor in Creative Computing**  
