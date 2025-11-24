@@ -30,16 +30,3 @@ I have studied **Informatics** and soon **Mechatronics**, and I’ve worked in *
 </p>
 
 ---
-
-##  Highlighted Projects
-
-###  **Tags Similarity Calculation**
-A Python-based comparison framework for computing semantic similarity between tags.  
-**Tech:** Python, NLP, similarity metrics  
-🔗 https://github.com/Mohammed87FS/Tags_Similarity_Calcualtion
-
----
-
-###  **Apriori vs Word2Vec**
-A research-driven project comparing classical association rule mining with embedding-based methods.  
-**Tech:** Python, ML, Data Mining, Jupyter Notebook
