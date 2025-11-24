@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 - Data Science & Software Engineer based in Austria  
 - Strong focus on data-driven products, pricing, and retail analytics  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 ### Data Science & Analytics
 - Python, R  
@@ -43,7 +43,7 @@
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 - **Data Engineer & Machine Learning Programmer** – REWE International / BILLA AG  
   _Price and Promotion Management Department · 2024_  
@@ -58,7 +58,7 @@
 
 ---
 
-## 🎓 Education
+##  Education
 
 - **Master in Mechatronics** 
   FH Wiener Neustadt, Austria · 2025 – 2027  
@@ -71,7 +71,7 @@
 
 ---
 
-## 🌐 Languages
+##  Languages
 
 - German (C2)  
 - Arabic (native)  
@@ -79,7 +79,7 @@
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - Email: **mohammedAmmarAlhamadani@gmail.com**
 
