@@ -16,14 +16,14 @@
 
 ---
 
-## 💡 About Me
+##  About Me
 
 I'm a data-focused software engineer who enjoys turning complex ideas into real systems — from ML similarity models to fully interactive 3D web apps.  
-I study **Creative Computing** and soon **Mechatronics**, and I’ve worked in **data engineering**, **ML programming**, and **retail analytics**.
+I have studied **Informatics** and soon **Mechatronics**, and I’ve worked in **data engineering**, **ML programming**, and **retail analytics**.
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,cpp,kotlin,nodejs,react,vue,svelte,angular,nest,threejs,git,linux,postgres,tensorflow" />
@@ -31,15 +31,15 @@ I study **Creative Computing** and soon **Mechatronics**, and I’ve worked in *
 
 ---
 
-## 🚀 Highlighted Projects
+##  Highlighted Projects
 
-### 🔍 **Tags Similarity Calculation**
+###  **Tags Similarity Calculation**
 A Python-based comparison framework for computing semantic similarity between tags.  
 **Tech:** Python, NLP, similarity metrics  
 🔗 https://github.com/Mohammed87FS/Tags_Similarity_Calcualtion
 
 ---
 
-### 🧠 **Apriori vs Word2Vec**
+###  **Apriori vs Word2Vec**
 A research-driven project comparing classical association rule mining with embedding-based methods.  
 **Tech:** Python, ML, Data Mining, Jupyter Notebook
