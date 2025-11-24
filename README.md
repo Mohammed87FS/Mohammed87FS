@@ -10,7 +10,7 @@
 ##  About Me
 
 I'm a data-focused software engineer who enjoys turning complex ideas into real systems, from ML similarity models to fully interactive 3D web apps.  
-I have studied **Informatics** and soon **Mechatronics**, and I’ve worked in **data engineering**, **ML programming**, and **retail analytics**.
+I have studied **Informatics** and currently **Mechatronics**, and I’ve worked in **data engineering**, **ML programming**, and **retail analytics**.
 
 ---
 
