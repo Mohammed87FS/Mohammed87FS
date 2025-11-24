@@ -3,7 +3,7 @@
 
 <p align="center">
   Technology drives me and fuels my continual growth.<br/>
-  <em>"Never give up"</em> defines my actions – every challenge is an opportunity to grow.
+  <em>"Never give up"</em> defines my actions. Every challenge is an opportunity to grow.
 </p>
 
 ---
@@ -67,13 +67,16 @@
   FH St. Pölten, Austria · 2022 – 2025  
 
 - **Matura**  
-  Mary Ward Gymnasium Krems an der Donau, Austria · 2018 – 2022  
+  Mary Ward Gymnasium Krems an der Donau, Austria · 2018 – 2022
+  
+- **Gifted Students School – Baghdad**  
+  High School, Baghdad · Sep 2016 – Nov 2017  
 
 ---
 
 ##  Languages
 
-- German (C2)  
+- German (fluent)  
 - Arabic (native)  
 - English (fluent)  
 
@@ -83,9 +86,4 @@
 
 - Email: **mohammedAmmarAlhamadani@gmail.com**
 
-<!--
-Optional: uncomment and replace YOUR_GITHUB_USERNAME to show GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
--->
