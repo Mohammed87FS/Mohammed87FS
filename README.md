@@ -7,7 +7,7 @@
 
 ---
 
-I have studied **Informatics** and currently **Mechatronics**, and I’ve worked in **data engineering**, **ML programming**, and **retail analytics**.
+I have studied **Informatics** and currently **Mechatronics**, both in Austria, and I’ve worked in **data engineering**, **ML programming**, and **retail analytics**.
 
 ---
 
