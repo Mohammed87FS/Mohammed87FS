@@ -18,7 +18,7 @@ I have studied **Informatics** and currently **Mechatronics**, both in Austria, 
 </p>
 
 ---
-<h2 align="left">My - ART - </h2>
+<h2 align="left">My - ART - (why not) </h2>
 
 
 <div align="center">
