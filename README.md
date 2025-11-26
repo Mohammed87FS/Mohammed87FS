@@ -18,3 +18,26 @@ I have studied **Informatics** and currently **Mechatronics**, both in Austria, 
 </p>
 
 ---
+<h2 align="left">My Latest YouTube Shorts - ART -</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/shorts/JpzaOB1tdyo" target="_blank">
+          <img src="https://img.youtube.com/vi/JpzaOB1tdyo/0.jpg" width="250" style="border-radius: 10px;" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/shorts/QIWwLeS7PQQ" target="_blank">
+          <img src="https://img.youtube.com/vi/QIWwLeS7PQQ/0.jpg" width="250" style="border-radius: 10px;" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.youtube.com/shorts/njt8B-79AdU" target="_blank">
+          <img src="https://img.youtube.com/vi/njt8B-79AdU/0.jpg" width="250" style="border-radius: 10px;" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
