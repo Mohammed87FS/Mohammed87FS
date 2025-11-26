@@ -20,24 +20,40 @@ I have studied **Informatics** and currently **Mechatronics**, both in Austria, 
 ---
 <h2 align="left">My Latest YouTube Shorts - ART -</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.youtube.com/shorts/JpzaOB1tdyo" target="_blank">
-          <img src="https://img.youtube.com/vi/JpzaOB1tdyo/0.jpg" width="250" style="border-radius: 10px;" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/shorts/QIWwLeS7PQQ" target="_blank">
-          <img src="https://img.youtube.com/vi/QIWwLeS7PQQ/0.jpg" width="250" style="border-radius: 10px;" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.youtube.com/shorts/njt8B-79AdU" target="_blank">
-          <img src="https://img.youtube.com/vi/njt8B-79AdU/0.jpg" width="250" style="border-radius: 10px;" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Video 1 -->
+  <a href="https://www.youtube.com/shorts/JpzaOB1tdyo" target="_blank" 
+     style="text-decoration: none; border-radius: 12px; overflow: hidden; display: inline-block;">
+    <img 
+      src="https://img.youtube.com/vi/JpzaOB1tdyo/maxresdefault.jpg"
+      style="width: 220px; height: 390px; object-fit: cover; border-radius: 12px; transition: transform .3s;" 
+      onmouseover="this.style.transform='scale(1.05)'" 
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+
+  <!-- Video 2 -->
+  <a href="https://www.youtube.com/shorts/QIWwLeS7PQQ" target="_blank" 
+     style="text-decoration: none; border-radius: 12px; overflow: hidden; display: inline-block;">
+    <img 
+      src="https://img.youtube.com/vi/QIWwLeS7PQQ/maxresdefault.jpg"
+      style="width: 220px; height: 390px; object-fit: cover; border-radius: 12px; transition: transform .3s;" 
+      onmouseover="this.style.transform='scale(1.05)'" 
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+
+  <!-- Video 3 -->
+  <a href="https://www.youtube.com/shorts/njt8B-79AdU" target="_blank" 
+     style="text-decoration: none; border-radius: 12px; overflow: hidden; display: inline-block;">
+    <img 
+      src="https://img.youtube.com/vi/njt8B-79AdU/maxresdefault.jpg"
+      style="width: 220px; height: 390px; object-fit: cover; border-radius: 12px; transition: transform .3s;" 
+      onmouseover="this.style.transform='scale(1.05)'" 
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+
 </div>
+
