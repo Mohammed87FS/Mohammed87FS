@@ -14,7 +14,7 @@ I have studied **Informatics** and currently doing my Masters in **Mechatronics*
 ##  Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,cpp,kotlin,nodejs,react,vue,svelte,angular,nest,threejs,git,linux,postgres,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,cpp,kotlin,nodejs,react,vue,svelte,angular,nest,threejs,git,linux,postgres,tensorflow,matlab" />
 </p>
 
 ---
